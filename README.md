@@ -29,3 +29,4 @@ A simple **C++ console-based application** for managing airplane tickets. The pr
 
 ![Screenshot (1)](https://github.com/user-attachments/assets/45baaeaa-3385-452f-bd3d-bbda9aad2677)
 
+![Screenshot (5)](https://github.com/user-attachments/assets/28668e83-2e61-4b8c-bf8f-7d7d418017c3)
