@@ -24,5 +24,8 @@ A simple **C++ console-based application** for managing airplane tickets. The pr
    - Seat number
    - Ticket price  
 
-3. The program stores tickets in an **array** (up to 20 entries).  
+3. The program stores tickets in an **array** (up to 20 entries).
+
+
+![Screenshot (1)](https://github.com/user-attachments/assets/45baaeaa-3385-452f-bd3d-bbda9aad2677)
 
